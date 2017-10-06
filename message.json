@@ -1,0 +1,16 @@
+{
+    "fridaynight_msg": {
+        "client_info": {
+            "player_id": 1,
+            "player_name": "Eric Miron"
+        },
+        "message": {
+            "action": "",
+            "params": [
+                {},
+                {}
+            ]
+        }
+        
+    }
+}

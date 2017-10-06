@@ -1,0 +1,13 @@
+{
+  "name": "ws-test",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },    
+  "dependencies": {
+    "ws": "^3.1.0"
+  },
+  "author": "Eric Miron",
+  "description": "Friday Night ws server"
+}
